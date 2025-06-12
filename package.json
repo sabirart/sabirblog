@@ -1,0 +1,15 @@
+{
+    "name": "sabirblog",
+    "version": "1.0.0",
+    "description": "A blog platform with AI-powered insights",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.17.1",
+        "mongoose": "^7.0.0"
+    }
+}
